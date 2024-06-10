@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ErrorPCalculator</string>
+    <string name="calculate_error">Calculate Porcentual Error</string>
+    <string name="measure_value">Valor Medido</string>
+    <string name="calculated_value">Valor Calculado</string>
+    <string name="error_percent">Porcentaje de error: %s</string>
+</resources>
